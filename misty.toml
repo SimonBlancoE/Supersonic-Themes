@@ -1,0 +1,26 @@
+[SupersonicTheme]
+Name = "Misty"
+Version = "0.2"
+SupportsDark = true
+SupportsLight = false
+
+[DarkColors]
+Background = "#152326"
+PageBackground = "#365F73"
+OverlayBackground = "#152326"
+Foreground = "#A1C7BD"
+Primary = "#EBEBEB" 
+Hyperlink = "#C8D9C1"
+InputBackground = "#152326"
+InputBorder = "#C8D9C1"
+Placeholder = "#EBEBEB"
+Button = "#365F73"
+Pressed = "#A1C7BD"
+Hover = "#8399A6"
+PageHeader = "#171421"
+ListHeader = "#152326"
+Separator = "#313A5C"
+Selection = "#2A464C"
+ScrollBar = "#152326"
+Focus = "#414C44"
+Warning = "#ff5555"
