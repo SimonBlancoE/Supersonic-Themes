@@ -1,0 +1,26 @@
+[SupersonicTheme]
+Name = "Dracula"
+Version = "0.2"
+SupportsDark = true
+SupportsLight = false
+
+[DarkColors]
+PageBackground = "#171421"
+ListHeader = "#152326"
+PageHeader = "#171421"
+Background = "#282a36"
+OverlayBackground = "#282a36"
+ScrollBar = "#6272a4"
+Foreground = "#33C7DE"
+Button = "#171421"
+Separator = "#85FCA3"
+InputBackground = "#414C44"
+Focus = "#414C44"
+InputBorder = "#ff79c6"
+Hover = "#261111"
+Placeholder = "#85FCA3"
+Selection = "#2A464C"
+Primary = "#DDCEF3" 
+Pressed = "#85FCA3"
+Warning = "#ff5555"
+Hyperlink = "#9950A4"
